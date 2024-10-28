@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/64caae8a2e1b4ef0a5268c1f691b4d00)](https://app.codacy.com/gh/OsoPanda1/Skynet-System?utm_source=github.com&utm_medium=referral&utm_content=OsoPanda1/Skynet-System&utm_campaign=Badge_Grade)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/441b48966e9f4b58a643d7c4cee8ba66)](https://app.codacy.com/gh/Awesome-RJ/Skynet-System?utm_source=github.com&utm_medium=referral&utm_content=AnimeKaizoku/SkynetSystem&utm_campaign=Badge_Grade_Dashboard)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Repo Size](https://img.shields.io/github/repo-size/Awesome-RJ/Skynet-System)](https://github.com/Awesome-RJ/Skynet-System "Skynet X System")
